@@ -67,7 +67,14 @@ and open the template in the editor.
                         <img src="spaimg/spa6.jpg" alt="Flower" width="460" height="345">
                     </div>
                 </div>
-
+                
+                <div id="carouselBottom">
+                    <div>
+                        <span>Search</span>
+                        <input type="text" name="search" value="" />
+                        <input type="text" name="search" value="" />
+                    </div>
+                </div>
                 <!-- Left and right controls -->
                 <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
                     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
